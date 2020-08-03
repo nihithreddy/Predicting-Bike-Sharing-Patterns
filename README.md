@@ -1,5 +1,5 @@
 # Predicting Bike-Sharing Patterns
-This is the first project in Udacity's Deep Learning Nanodegree Program.In this project we build a neural network is built using numpy to predict bike sharing price.
+This is the first project in Udacity's Deep Learning Nanodegree Program.In this project we build a simple neural network using numpy to predict bike sharing price.
 ![GitHub Logo](/assets/neural_network.png)
 ## Setup:
 1. Create a conda environment:
